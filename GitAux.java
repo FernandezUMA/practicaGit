@@ -20,4 +20,9 @@ public class GitAux {
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
     }
+	
+	public void testGitAux() {
+		// Método en rama testing
+		System.out.println("Método de testing");
+	}
 }
