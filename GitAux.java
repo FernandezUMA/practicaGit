@@ -5,8 +5,7 @@
 package prgitejemplo;
 
 /**
- *
- * @author bertoa
+ * @author Francisco Fernández
  */
 public class GitAux {
     
